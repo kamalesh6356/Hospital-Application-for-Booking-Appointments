@@ -1,0 +1,33 @@
+.heading{
+    padding-top: 45px;
+    padding-bottom: 20px;
+    color: rgb(26, 130, 190);
+    text-align: center;
+    font-size: 30px;
+}
+.bg{
+    background-color: rgb(70, 124, 199);
+}
+.a-para
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  width: 50%;
+}
+.heading-2{
+    text-align: center;
+    font-size: 30px;
+}
+.container-1{
+    border: groove;
+    background-color: rgb(137, 180, 21);
+}
